@@ -1,0 +1,16 @@
+
+example01_print_text_on_LCD_module/java_send_text/\.project
+
+example01_print_text_on_LCD_module/java_send_text/\.settings/
+
+example01_print_text_on_LCD_module/java_send_text/\.classpath
+
+example01_print_text_on_LCD_module/java_send_text/bin/de/mschoeffler/arduino/Startup\.class
+
+example02_print_text_to_serial_monitor_with_USBtoTTLModule/java_send_text/\.classpath
+
+example02_print_text_to_serial_monitor_with_USBtoTTLModule/java_send_text/\.project
+
+example02_print_text_to_serial_monitor_with_USBtoTTLModule/java_send_text/\.settings/
+
+example02_print_text_to_serial_monitor_with_USBtoTTLModule/java_send_text/bin/de/mschoeffler/arduino/Startup\.class
